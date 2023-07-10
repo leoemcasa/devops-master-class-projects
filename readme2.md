@@ -1,1 +1,0 @@
-# devops-master-class-projects
